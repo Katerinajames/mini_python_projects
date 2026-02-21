@@ -1,4 +1,4 @@
-#https://realpython.com/python-dice-roll/
+
 import random
 times=7  #  The times we want our dices to roll
 n=0   #Our counter
